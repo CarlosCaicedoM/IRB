@@ -1,4 +1,4 @@
-# Biochemical Reaction Engineering
+# Biochemical Reactions Engineering
 In this project we try to keep an updated repository of the codes that we use in the course Biochemical Reaction Engineering at the University of Antioquia.
 
 To use this project, simply navigate through each file where you can find the code to solve a problem that is part of the content of the course. 
